@@ -31,3 +31,7 @@ Conclusion:
 This project successfully demonstrates the end-to-end pipeline of predictive analytics using machine learning. Starting from loading the dataset, cleaning it, selecting features, training a model, and evaluating its performance, it offers a practical example of applying data science to a real-world scenario. By leveraging machine learning, we can transform raw data into actionable insights, which is essential in industries ranging from healthcare and finance to transportation and retail. The techniques used in this project are foundational and can be extended to more complex datasets and advanced models.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/37c4c7b2-187b-4c3d-8380-0989dd74285b)
+
+![Image](https://github.com/user-attachments/assets/8c6ae36f-0d7b-46d0-bf1b-b2ed9f80d7cf)
