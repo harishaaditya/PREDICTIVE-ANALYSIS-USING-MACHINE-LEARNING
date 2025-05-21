@@ -30,3 +30,4 @@ Finally, we analyze which features had the greatest impact on the prediction by 
 Conclusion:
 This project successfully demonstrates the end-to-end pipeline of predictive analytics using machine learning. Starting from loading the dataset, cleaning it, selecting features, training a model, and evaluating its performance, it offers a practical example of applying data science to a real-world scenario. By leveraging machine learning, we can transform raw data into actionable insights, which is essential in industries ranging from healthcare and finance to transportation and retail. The techniques used in this project are foundational and can be extended to more complex datasets and advanced models.
 
+#OUTPUT
