@@ -1,5 +1,17 @@
 # PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : HARISH AADITYA SRIDHARAN
+
+*INTERN ID* : CT1MTDL12
+
+*DOMAIN* : DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
 Objective:
 The objective of this project is to build a machine learning model capable of predicting outcomes based on historical data. This involves understanding the data, preparing it through various preprocessing techniques, selecting the most relevant features, training a suitable machine learning model (classification or regression), and evaluating its performance using standard metrics. For this project, we focus on a classification problem: predicting the survival of passengers aboard the Titanic based on features like age, sex, fare, and passenger class.
 
